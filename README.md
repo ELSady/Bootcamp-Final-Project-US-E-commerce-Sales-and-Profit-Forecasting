@@ -36,7 +36,7 @@ The left plot shows the top 20 country generating higher profit for the ecommerc
 ![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index.png)
 
 ### Stationary Time Series Checking
-![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index2.png)
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index10.png)
 
 * DIckey Fuller Test Result
 > Test Statistics                -18.936836
