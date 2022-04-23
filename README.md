@@ -39,20 +39,28 @@ The left plot shows the top 20 country generating higher profit for the ecommerc
 ![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index10.png)
 
 * DIckey Fuller Test Result
-> Test Statistics                -18.936836
-> p-value                          0.000000
-> No. of lags used                 0.000000
-> Number of observations used    364.000000
+> Test Statistics                -18.936836 <br>
+> p-value                          0.000000 <br>
+> No. of lags used                 0.000000 <br>
+> Number of observations used    364.000000 <br>
 
 Result shows that our profit time seriers is stationary, indicated by the p value of less than 0.05 and a minus (-) value of test statistic.
 
-### Log transformation TIme Series
+### Log transformation Time Series
 
 ![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index8.png)
+
+This is done to eliminate the trend of time series, while its is stationary, so trend component is basically non existent. However, this is to further flaten the standard deviation.
 
 ### AUTO ARIMA 
 * Modeling <br>
 ![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index1.png)
+
+Plot interpretation:
+* Standardized residual: The residual errors fluctuate around a mean of zero and have a uniform variance.
+* Histogram: The density plot suggest normal distribution with mean.
+* Theoretical Quantiles: Mostly the dots fall perfectly in line with the red line. Any significant deviations would imply the distribution is skewed.
+* Correlogram: The Correlogram, (or ACF plot) shows the residual errors are not autocorrelated (independences).
 
 * Forecasting <br>
 ![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index5.png)
