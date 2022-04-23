@@ -21,16 +21,23 @@
 ### Exploratory Data Analysis Highlight
 * Total Profit Product <br>
 
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index6.png)
+
 The left plot shows the top 20 products which are bought by the customers the most, / making much higher profit, where T-shirt, wacth, Running shoes, Jeans and Formal Shoes are amongst of the top 5. It is also understood that products which makes the most profit also fall into Fashion category as represented by the right plot. It is alligned with the previous plot.
 
 * Total Profit Country / Region <br>
 
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index7.png)
+
 The left plot shows the top 20 country generating higher profit for the ecommerce. Again, United States top the chart just as i explained in the previous plot where customers are dominantly live in the US, So it is natural that the States also generates more profit for the Ecommerce. In the second place it is Australia, followed France and Mexico and third and fourth. While the right plot shows Region which generates higher profit for the ecomerce. Central and East are amongst the top, it is understood, because the two are parts of The United States.
 
-* Profit and Sales Over the year of 2015
+* Profit and Sales Over the year of 2015 <br>
 
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index.png)
 
 ### Stationary Time Series Checking
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index2.png)
+
 * DIckey Fuller Test Result
 > Test Statistics                -18.936836
 > p-value                          0.000000
