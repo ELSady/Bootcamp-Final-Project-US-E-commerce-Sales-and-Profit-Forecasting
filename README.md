@@ -9,4 +9,10 @@
 * **Packages** : pandas, numpy, matplotlib, seaborn, sci-kit learn, statsmodel, pmdarima, fbprphet.
 
 ### Data Cleaning
-* I had to do a number of features cleaning as many features had _anomaly_ values. Had to replace those values to their appropiate value and types. Features with _anomaly_ value to be cleaned include `Order Priority, Aging, Segment, Quantity, Region, Country, State, Shipping Cost`.
+* I had to do a number of features cleaning as many features had _anomaly_ values. Features with _anomaly_ value to be cleaned include `Order Priority, Aging, Segment, Quantity, Region, Country, State, Shipping Cost`.
+* Replaced _anomaly_ values with the most frequent occuring ones or with the median of respective faatures. Because some of those value are not interpretable, so it had to be removed fom dataset.
+* Cross-checking to see if the data had already been cleaned.
+* Export cleaned data to csv file.
+
+### Exploratory Data Analysis
+* 
