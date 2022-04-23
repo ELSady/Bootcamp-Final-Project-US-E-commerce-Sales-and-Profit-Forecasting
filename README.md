@@ -48,13 +48,18 @@ Result shows that our profit time seriers is stationary, indicated by the p valu
 
 ### Log transformation TIme Series
 
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index8.png)
+
 ### AUTO ARIMA 
 * Modeling <br>
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index1.png)
 
 * Forecasting <br>
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index5.png)
 
 ### FBProphet
 * Forecast <br>
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index3.png)
 
 * Components <br>
-
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index4.png)
