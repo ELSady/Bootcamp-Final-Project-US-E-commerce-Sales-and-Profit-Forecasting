@@ -62,6 +62,8 @@ Plot interpretation:
 * Theoretical Quantiles: Mostly the dots fall perfectly in line with the red line. Any significant deviations would imply the distribution is skewed.
 * Correlogram: The Correlogram, (or ACF plot) shows the residual errors are not autocorrelated (independences).
 
+The model is good to forecast the serires.
+
 * Forecasting <br>
 ![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index5.png)
 
