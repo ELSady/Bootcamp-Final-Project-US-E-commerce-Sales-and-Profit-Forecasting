@@ -32,10 +32,10 @@ The left plot shows the top 20 country generating higher profit for the ecommerc
 
 ### Stationary Time Series Checking
 * DIckey Fuller Test Result
->Test Statistics                -18.936836
->p-value                          0.000000
->No. of lags used                 0.000000
->Number of observations used    364.000000
+> Test Statistics                -18.936836
+> p-value                          0.000000
+> No. of lags used                 0.000000
+> Number of observations used    364.000000
 
 Result shows that our profit time seriers is stationary, indicated by the p value of less than 0.05 and a minus (-) value of test statistic.
 
