@@ -73,3 +73,7 @@ The model is good to forecast the serires.
 
 * Components <br>
 ![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index4.png)
+
+* FBProphet Forecast Components highlight:
+* Theres an increasing trend when it comes to profit and sales.
+* Weekly seasonal, on average, sunday and wednesday are the days when profit and sales are all tme high during the week, but the opposite is true for thursday, friday and saturday.
