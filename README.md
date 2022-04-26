@@ -1,4 +1,4 @@
-## Data Science Project : US E-commerce Sales and Profit Forecasting with SARIMA and FBProphet Overview
+## Data Science Project : US E-commerce Sales and Profit Forecasting with ARIMA and FBProphet Overview
 * Build a tool to forecast snd predict the trend and value of sales and profit of one of US E commerce.
 * Dataset contains records of E commerce succesful sales from january 2015 to december 2015
 * Feature Engineered date feature to date time type for easier to converto data to to time series.
