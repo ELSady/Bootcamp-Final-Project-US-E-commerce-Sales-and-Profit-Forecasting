@@ -5,6 +5,14 @@
 * Data Exploration giving a better understanding which products sold the most, generates most profit and where the sales / pofit mostly comes from.
 * Auto ARIMA and FBProphet as tool to forecast sales and profit of the dataset.
 
+
+![alt text](https://github.com/ELSady/Bootcamp-Final-Project-US-E-commerce-Sales-and-Profit-Forecasting/blob/main/index6.png)
+
+Business Question:
+* Which Producst generates the most in terms of revenue?
+* Which producst categories are the most popular / sold?
+* Which Country orders the most?
+
 ### Code and Resource Used
 * **Packages** : pandas, numpy, matplotlib, seaborn, sci-kit learn, statsmodel, pmdarima, fbprphet.
 
